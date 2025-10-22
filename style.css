@@ -1,0 +1,25 @@
+body{
+    color: rgb(245, 35, 70);
+    background:rgb(238, 139, 155);
+    margin: 0px;
+    font-family: Lakki Reddy
+;
+}
+
+header {
+    border-bottom: solid 2px rgb(241, 101, 129);
+    padding: 15px;
+    font-size: 32px;
+    color: rgb(243, 30, 137);
+}
+
+section{
+    background-color: rgb(245, 110, 137);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
